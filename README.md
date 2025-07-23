@@ -1,7 +1,3 @@
-Here's a professional and well-structured **README.md** description you can use for your GitHub repository for the **Employee Salary Prediction** project:
-
----
-
 # 💼 Employee Salary Prediction
 
 This project is a machine learning-based system that predicts whether an employee earns more than ₹50,000 (or \$50K) annually based on demographic and employment-related attributes. It also includes an interactive web application built using **Streamlit** that allows for both single and batch predictions.
